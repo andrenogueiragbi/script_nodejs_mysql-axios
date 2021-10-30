@@ -62,7 +62,7 @@ async function whatsapp(phone,nome) {
  
 }
 
-//whatsapp('77999770606');
+
 
 module.exports = { ValidNumber,whatsapp }
 
